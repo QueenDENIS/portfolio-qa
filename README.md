@@ -34,5 +34,5 @@ FR : Mon parcours dans l'animation et la restauration m'a appris à gérer le st
 EN : My background in education and food service taught me stress management, diplomatic communication, and a focus on the end-user experience. I combine these soft skills with certified ISTQB technical rigor + 2 functional POCs on GitHub.
 
 ## 📞 Contact
--**Email*: queendenis1985@gmail.com
-- **Localisation** : Toulouse, France - Ouverte au full remote                                   -**Disponibililité** Immidiate pour Alternance / Junior                                                                        
+-**Email**: queendenis1985@gmail.com
+- **Localisation** : Toulouse, France - Ouverte au full remote                                   -**Disponibilité** Immédiate pour Alternance / Junior                                                                        
